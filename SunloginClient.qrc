@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>pic/assist.png</file>
+        <file>pic/assist-h.png</file>
+        <file>pic/gps.png</file>
+        <file>pic/gps-h.png</file>
+        <file>pic/lock.png</file>
+        <file>pic/lock-h.png</file>
+        <file>pic/round.png</file>
+        <file>pic/shot.png</file>
+        <file>pic/shot-h.png</file>
+        <file>pic/star.png</file>
+        <file>pic/device.png</file>
+        <file>pic/device-h.png</file>
+        <file>pic/copy.png</file>
+        <file>pic/copy-h.png</file>
+        <file>pic/password.png</file>
+        <file>pic/password-h.png</file>
+        <file>pic/close.png</file>
+        <file>pic/menu.png</file>
+        <file>pic/min.png</file>
+    </qresource>
+</RCC>
